@@ -8,6 +8,6 @@ body {
 
 /* Change the font size and color for headers */
 h1, h2, h3, h4, h5, h6 {
-    font-size: 32px; /* Larger headers */
-    color: #0077cc; /* Blue color for headers */
+    font-size: 40px; /* Larger headers */
+    color: #461D7C; /* Blue color for headers */
 }
