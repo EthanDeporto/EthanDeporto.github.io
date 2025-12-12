@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: Ethan Deporto's Portfolio
 description: A simple website to show off my projects and CTF solutions!
 
-css:style.css
+css: style.css
