@@ -1,0 +1,13 @@
+/* style.css */
+
+/* Change the font size and color for the main body text */
+body {
+    font-size: 18px; /* Bigger text */
+    color: #333333; /* Dark grey color */
+}
+
+/* Change the font size and color for headers */
+h1, h2, h3, h4, h5, h6 {
+    font-size: 32px; /* Larger headers */
+    color: #0077cc; /* Blue color for headers */
+}
