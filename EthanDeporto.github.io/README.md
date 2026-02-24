@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 **About me**
 
 Hi, I'm Ethan Deporto, a recent computer science graduate from Louisana State University. My interest with computers and technology begain in 2017, when I was just starting high school. I had always played video games all throughout my life, and at the time my best friend switched over to mainly playing games on his PC. At that point, I figured I should get a PC in order to play our favorite games together. While doing my research about which computer to buy, I kept coming upon people recommending me to build my own computer. I heard how much money you could save, and especially how much you could learn by building your own, I figured why not? I eventually built my first PC with an i5-6600k, 16gbs of ram, and a GTX 1060. After finishing my first build, I learned how much I loved to work with tech, and continued to pursue my love of software throughtout the years, always building a new PC (when I had the funds) or helping family members out with their PCs. 
